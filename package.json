@@ -1,0 +1,22 @@
+{
+  "name": "cricket-players",
+  "version": "1.0.0",
+  "description": "Get the cricket players name",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pramod94/cricket-players.git"
+  },
+  "author": "Pramoda M <pramodmithyantha@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Pramod94/cricket-players/issues"
+  },
+  "homepage": "https://github.com/Pramod94/cricket-players#readme",
+  "dependencies": {
+    "unique-random-array": "2.0.0"
+  }
+}
