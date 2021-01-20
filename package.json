@@ -1,5 +1,5 @@
 {
-  "name": "cricket-players-a-z",
+  "name": "cricket-players",
   "version": "1.0.0",
   "description": "Get the cricket players name",
   "main": "src/index.js",
@@ -16,5 +16,7 @@
     "url": "https://github.com/Pramod94/cricket-players/issues"
   },
   "homepage": "https://github.com/Pramod94/cricket-players#readme",
-  "dependencies": {}
+  "dependencies": {
+    "unique-random-array": "2.0.0"
+  }
 }
